@@ -1,0 +1,2 @@
+pnpm exec eslint .
+pnpm exec prettier --check .
